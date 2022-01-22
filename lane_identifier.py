@@ -1,3 +1,9 @@
+"""
+
+The 'test2.mp4' file used in this code is available in the 'The Complete Self-Driving Car Course - Applied Deep Learning' course.
+
+"""
+
 import cv2
 import numpy as np
 import matplotlib.pyplot as plt
