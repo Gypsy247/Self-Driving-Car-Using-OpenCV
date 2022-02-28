@@ -4,5 +4,4 @@ The repository will contain multiple scripts that I learned and executed in orde
 * OpenCV - to find and identify lane lines
 * Using the concept of a Perceptron with Keras for Binary Classification
 * Deep Neural Networks
-* Multiclass Classifications of Handwritten Digits (MNIST Dataset)
-* Multiclass Classification of Road Symbols/Traffic Signs
+* Self Driving Car Simulator using Behavioral Cloning, OpenCV and TensorFlow
