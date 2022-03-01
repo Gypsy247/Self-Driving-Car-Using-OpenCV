@@ -11,7 +11,7 @@ The repository will contain multiple scripts that I learned and executed in orde
 * Once installed, use the training mode on track 1 to drive through the tracks while trying to stay in the centre of the road. Speed is not important.
 * For good results, I would recommend atleast 3-4 laps, followed by an equal number of laps in the opposite direction to avoid left turn bias.
 * The car in the simulator is fitted with three cameras in the front, one for left, one for right and one for the centre. As you drive, the cameras capture and store screenshots of what the car sees. This is stored in a folder called IMG.
-* A csv file is also created which records other data, out of which the steering angle is critical to our project. A steering angle with a negative value means a left turn and a positive value means a right turn.
+* the driving_log.csv file is also created which records other data, out of which the steering angle is critical to our project. A steering angle with a negative value means a left turn and a positive value means a right turn.
 * Once the training data is collected, you can push the images and the csv file to your github.
 * Install the requirements.txt file
 * Next, you can run the behavioral_cloning notebook, which trains our model based on the images and the steering angles.
